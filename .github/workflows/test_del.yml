@@ -1,4 +1,4 @@
-name: Publish artificats to GitHub Packages
+name: Publish artificats to GitHub Packages1
 on: push
 jobs:
   publish:
